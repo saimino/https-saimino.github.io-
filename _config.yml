@@ -1,7 +1,7 @@
 # Setup
 title:               mino
 subtitle:            sai
-tagline:             'mino tag'
+tagline:             'mino taga'
 description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 saimino.github.io
 baseurl:             '/mino'
