@@ -2,7 +2,7 @@
 title:               mino
 subtitle:            sai
 tagline:             'sai mino choilog'
-description:         '낭비한 시간에 대한 후회는 더 큰 시간 낭비이다. 우리 인생은 우리가 노력한 만큼 가치가 있다.'
+description:         '낭비한 시간에 대한 후회는 더 큰 시간 낭비이다.\n 우리 인생은 우리가 노력한 만큼 가치가 있다.'
 url:                 saimino.github.io
 baseurl:             ''
 paginate:            5
