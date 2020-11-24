@@ -1,8 +1,8 @@
 # Setup
 title:               mino
 subtitle:            sai
-tagline:             'mino tagab'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:             'sai mino choilog'
+description:         '낭비한 시간에 대한 후회는 더 큰 시간 낭비이다. 우리 인생은 우리가 노력한 만큼 가치가 있다.'
 url:                 saimino.github.io
 baseurl:             ''
 paginate:            5
@@ -11,7 +11,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Choi Minho
-  url:               https://twitter.com/mdo
+  url:               
   email:             chlalsgh789@gmail.com
 
 # Gems
